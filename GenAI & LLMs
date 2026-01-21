@@ -1,1 +1,14 @@
+Definitions
 
+GenAI can produce various type contents, including synthetic data
+
+ML is subfiled of AI- trains data to predict.
+Supervised & Unsupervised Learning
+
+Supervised uses labeled data
+Unsupervised can use unlabelled data to predict
+
+Deep Learning uses ANN- inspired by human brain- made of neurons
+uses both labelled and unlabelled data
+
+it has 2 Model Types- Predictive & Generative
