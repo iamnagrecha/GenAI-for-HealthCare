@@ -14,3 +14,11 @@ uses both labelled and unlabelled data
 it has 2 Model Types- Predictive & Generative
 
 Gen AI trains based on existing data, to generate content including text,code,images etc
+
+Models
+1) Text-Text
+2) Text-Image
+3) Text-Video
+4)Text-Task
+
+if o/p is text, vidos or image then its Gen AI
