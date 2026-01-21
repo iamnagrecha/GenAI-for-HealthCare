@@ -2,5 +2,11 @@ Large languange models
 
 can store Petabytes of data, and can generate general outcomes based on training.
 
+Helps solve specific or general problems
 
+ex- text generation, doc summary in healthcare
+
+Can train modelm based on Medical Pub db, then tune in to workflow.
+
+No need to have expertise- here you just need to give good prompts
  
