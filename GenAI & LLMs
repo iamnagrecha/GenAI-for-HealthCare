@@ -12,3 +12,5 @@ Deep Learning uses ANN- inspired by human brain- made of neurons
 uses both labelled and unlabelled data
 
 it has 2 Model Types- Predictive & Generative
+
+Gen AI trains based on existing data, to generate content including text,code,images etc
