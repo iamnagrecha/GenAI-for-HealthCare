@@ -14,3 +14,5 @@ Quality of i/p prompt- determines quality of o/p response.
 1) zero shot prompting- no examples provided
 1) one shot- giving single example
 3) Few shot- given a few examples
+
+The grounding problem (hallucinations)- can happen if LLM doesn't know outside of training data
