@@ -5,3 +5,5 @@ Yes, by fine tuning the model
 - can generate realistic medical images
 - summarize key reasearch
 - can help, identify data patterns, indicating inefficiences.
+
+Need to fine tune the base model, including reasearch papers, clinical notes
