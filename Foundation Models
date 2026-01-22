@@ -7,3 +7,10 @@ Yes, by fine tuning the model
 - can help, identify data patterns, indicating inefficiences.
 
 Need to fine tune the base model, including reasearch papers, clinical notes
+
+Quality of i/p prompt- determines quality of o/p response.
+
+3 menthods to shape model's response
+1) zero shot prompting- no examples provided
+1) one shot- giving single example
+3) Few shot- given a few examples
